@@ -1,8 +1,8 @@
-﻿#### 远程视频直播+音视频录制+视频抓取
+﻿#### 远程视频直播（暂时无法使用了）+音视频录制+视频抓取
 					请首先阅读注意事项
 					
 					
-#### 远程直播展示
+#### 远程直播展示（暂时无法使用了）
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190926215352918.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1MjUzNTM1NzU4NQ==,size_16,color_FFFFFF,t_70)
 ##### 音视频录制
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190926215738379.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2h1MjUzNTM1NzU4NQ==,size_16,color_FFFFFF,t_70)
